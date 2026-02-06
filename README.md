@@ -1,1 +1,1 @@
-C# .NET studies
+C# .NET studies and practices
